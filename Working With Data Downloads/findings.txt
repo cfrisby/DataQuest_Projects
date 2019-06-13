@@ -1,0 +1,24 @@
+Data Source: https://catalog.data.gov/dataset/civil-rights-data-collection-
+2013-14
+
+There appears to be a 50/50 split between male and female students at schools
+which are not classified as juvenille detention centers. However, there are
+5-6 times more male students than female students at those facilities which
+were classified as juvenille detention facilities.
+
+There does not appear to be a significant difference in male-to-female
+enrollment at magnet schools vs. non-magnet schools.
+
+When comparing the racial demographics of the data set when compared to the 
+demographics of the United States as a whole (https://en.wikipedia.org/wiki/
+Demography_of_the_United_states#Race_and_ethnicity), the percentages are
+about equal. The one difference is our data set shows White students
+comprising about 50% of total enrollment, whereas the Census data shows
+that the United States is 73% White. However, one difference in our data
+set from the Census data is that our data set classifies Hispanic as a 
+separate race, while the Census does not consider Hispanic a race (any
+race in the Census classification can be Hispanic or Non-Hispanic). Our
+data set shows that about 25% of total enrollment is Hispanic students.
+Thus, we can assume that these students, for the most part, are classified
+as White in the Census data.
+
