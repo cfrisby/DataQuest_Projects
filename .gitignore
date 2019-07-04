@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Too large for GitHub
+game_log.csv
+mlb.db
